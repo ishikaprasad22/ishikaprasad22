@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: AI-powered full-stack web applications.<br>🤝 I’m looking to collaborate on: Full-stack, AI/ML, and open-source projects.<br>🆘 I’m looking for help with: Deployment optimization and scaling production apps.<br>🌱 I’m currently learning: Cloud deployment, AI integrations, and Machine Learning.<br>💬 Ask me about:  PERN/MERN stack, APIs, and building AI-driven features.<br>⚡ Fun fact: I learn fastest by building—and breaking—projects 😄
+Full-stack developer building with the MERN/PERN stack and figuring out how to make apps smarter with AI. Currently diving into cloud deployment and scaling production builds. I learn fastest by building things, breaking them, and then fixing the mess. 🛠️
 
 
 ## 🌐 Socials:
